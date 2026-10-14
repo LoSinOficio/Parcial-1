@@ -30,5 +30,6 @@ int main() {
     
     cout << "Auto Clase - Precio: " << a.precio << ", Anio: " << a.anio << endl;
     cout << "Persona Clase - Nombre: " << p.nombre << " " << p.ap << " " << p.am << endl;
+    
     return 0;
 }
