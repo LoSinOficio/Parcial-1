@@ -1,4 +1,37 @@
-# Practicas de programacion
+# Caratula
+
+## Practicas de programacion
+
+| Dato | Informacion |
+| --- | --- |
+| Institucion | [Nombre de la institucion] |
+| Asignatura | [Nombre de la asignatura] |
+| Estudiante | [Nombre del estudiante] |
+| Docente | [Nombre del docente] |
+| Fecha | [Fecha de entrega] |
+
+## Indice
+
+- [Desarrollo de soluciones](#desarrollo-de-soluciones)
+- [Practica 01.cpp](#practica-01cpp)
+- [Practica 02.cpp](#practica-02cpp)
+- [Practica 03.cpp](#practica-03cpp)
+- [Practica 04.cpp](#practica-04cpp)
+- [Practica 05.cpp](#practica-05cpp)
+- [Practica 06.cpp](#practica-06cpp)
+- [Practica 07.cpp](#practica-07cpp)
+- [Practica 07.1.cpp](#practica-071cpp)
+- [Practica 07 POO.java](#practica-07-poojava-contenido-c)
+- [Practica 08 POO.java](#practica-08-poojava-contenido-c)
+- [Practica 09.cpp](#practica-09cpp)
+- [Practica 10.cpp](#practica-10cpp)
+- [Practica 11.cpp](#practica-11cpp)
+- [Practica 12.cpp](#practica-12cpp)
+- [Practica 13.cpp](#practica-13cpp)
+- [Practica 14.cpp](#practica-14cpp)
+- [Practica 15.cpp](#practica-15cpp)
+
+## Desarrollo de soluciones
 
 Este repositorio contiene los programas de las practicas 01 a 15. El codigo de cada archivo se incluye a continuacion.
 
